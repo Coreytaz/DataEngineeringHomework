@@ -1,0 +1,2656 @@
+{
+    "type_counts": {
+        "механика": 301,
+        "вариатор": 68,
+        "робот": 6,
+        "автомат": 2
+    },
+    "statistical_characteristics_mileage": {
+        "mileage_sum": 18590211,
+        "mileage_min": 0,
+        "mileage_max": 300000,
+        "mileage_mean": 49310.90450928382,
+        "mileage_median": 1500.0
+    },
+    "dataset": [
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 163000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 0,
+            "year": 2007,
+            "mileage": 200000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 66792,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 36779,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 51314,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2121 (4x4) I Рестайлинг",
+            "price": 0,
+            "year": 2005,
+            "mileage": 151000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 50873,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I Рестайлинг",
+            "price": 0,
+            "year": 2021,
+            "mileage": 35625,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 163000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 0,
+            "year": 2007,
+            "mileage": 200000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 66792,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I Рестайлинг",
+            "price": 0,
+            "year": 2021,
+            "mileage": 35625,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2121 (4x4) I Рестайлинг",
+            "price": 0,
+            "year": 2005,
+            "mileage": 151000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2015,
+            "mileage": 75081,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2015,
+            "mileage": 75081,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 78895,
+            "type": "робот"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2016,
+            "mileage": 171000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 28754,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2131 (4x4) Urban I",
+            "price": 0,
+            "year": 2017,
+            "mileage": 46000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 44041,
+            "type": "робот"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 73555,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 45000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Priora I",
+            "price": 0,
+            "year": 2008,
+            "mileage": 300000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I",
+            "price": 0,
+            "year": 2018,
+            "mileage": 80000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 0,
+            "year": 2024,
+            "mileage": 1869,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 0,
+            "year": 2023,
+            "mileage": 11250,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 0,
+            "year": 2023,
+            "mileage": 25624,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 0,
+            "year": 2021,
+            "mileage": 92161,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 0,
+            "year": 2023,
+            "mileage": 13295,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 115267,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 0,
+            "year": 2021,
+            "mileage": 74697,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Priora I Рестайлинг",
+            "price": 0,
+            "year": 2013,
+            "mileage": 170000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 0,
+            "year": 2024,
+            "mileage": 7800,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 54000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2019,
+            "mileage": 45381,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2110",
+            "price": 0,
+            "year": 2003,
+            "mileage": 153000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I",
+            "price": 0,
+            "year": 2017,
+            "mileage": 250000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2110",
+            "price": 0,
+            "year": 2003,
+            "mileage": 153000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend Bronto",
+            "price": 0,
+            "year": 2023,
+            "mileage": 11543,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 4881,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2022,
+            "mileage": 26604,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 14000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 0,
+            "year": 2021,
+            "mileage": 66855,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 0,
+            "year": 2008,
+            "mileage": 150000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2020,
+            "mileage": 153139,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 85096,
+            "type": "робот"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 74714,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 102010,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2017,
+            "mileage": 49230,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend",
+            "price": 0,
+            "year": 2022,
+            "mileage": 42507,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 249329,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina I",
+            "price": 0,
+            "year": 2011,
+            "mileage": 175000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2019,
+            "mileage": 72696,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 26650,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 58000,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina II",
+            "price": 0,
+            "year": 2017,
+            "mileage": 163000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 71853,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 0,
+            "year": 2017,
+            "mileage": 141680,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 71853,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 0,
+            "year": 2017,
+            "mileage": 141680,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 0,
+            "year": 2018,
+            "mileage": 156000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2018,
+            "mileage": 49450,
+            "type": "робот"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 102325,
+            "type": "робот"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2020,
+            "mileage": 55693,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 29216,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 0,
+            "year": 2023,
+            "mileage": 53000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 29216,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2110",
+            "price": 0,
+            "year": 1999,
+            "mileage": 1500,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 146113,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I",
+            "price": 0,
+            "year": 2013,
+            "mileage": 231979,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2021,
+            "mileage": 101845,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2110",
+            "price": 0,
+            "year": 1999,
+            "mileage": 1500,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2022,
+            "mileage": 39300,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 0,
+            "year": 2024,
+            "mileage": 7800,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2023,
+            "mileage": 44027,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2018,
+            "mileage": 122000,
+            "type": "автомат"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 104533,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I",
+            "price": 0,
+            "year": 2014,
+            "mileage": 69123,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sport I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 110000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I",
+            "price": 0,
+            "year": 2016,
+            "mileage": 98514,
+            "type": "робот"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina I",
+            "price": 0,
+            "year": 2011,
+            "mileage": 146000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2023,
+            "mileage": 14527,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 0,
+            "year": 2020,
+            "mileage": 55898,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2024,
+            "mileage": 1344,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Cross I",
+            "price": 0,
+            "year": 2019,
+            "mileage": 146580,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 0,
+            "year": 2024,
+            "mileage": 8327,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Euro-2 I Рестайлинг",
+            "price": 0,
+            "year": 2023,
+            "mileage": 32117,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I",
+            "price": 0,
+            "year": 2012,
+            "mileage": 149000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina Cross II",
+            "price": 0,
+            "year": 2016,
+            "mileage": 56273,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2110",
+            "price": 38000,
+            "year": 2004,
+            "mileage": 215845,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2110",
+            "price": 38000,
+            "year": 2004,
+            "mileage": 215845,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2107",
+            "price": 40000,
+            "year": 2005,
+            "mileage": 250000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 21099",
+            "price": 40000,
+            "year": 1999,
+            "mileage": 300000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 60000,
+            "year": 2004,
+            "mileage": 200000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 60000,
+            "year": 2004,
+            "mileage": 200000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2111",
+            "price": 60000,
+            "year": 2007,
+            "mileage": 130000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2108",
+            "price": 74900,
+            "year": 1997,
+            "mileage": 250000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2108",
+            "price": 74900,
+            "year": 1997,
+            "mileage": 250000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2104",
+            "price": 75000,
+            "year": 2002,
+            "mileage": 200000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 80000,
+            "year": 2005,
+            "mileage": 300000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 80000,
+            "year": 2005,
+            "mileage": 300000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2107",
+            "price": 90000,
+            "year": 2004,
+            "mileage": 55000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 105000,
+            "year": 2004,
+            "mileage": 244023,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 120000,
+            "year": 2005,
+            "mileage": 180000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 120000,
+            "year": 2005,
+            "mileage": 180000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2111",
+            "price": 135000,
+            "year": 2005,
+            "mileage": 200000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina I",
+            "price": 150000,
+            "year": 2012,
+            "mileage": 104000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2112",
+            "price": 150000,
+            "year": 2002,
+            "mileage": 150000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 155000,
+            "year": 2009,
+            "mileage": 233000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 160000,
+            "year": 2012,
+            "mileage": 145000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 160000,
+            "year": 2012,
+            "mileage": 145000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2109 21093i",
+            "price": 200000,
+            "year": 1996,
+            "mileage": 40000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2109 21093i",
+            "price": 200000,
+            "year": 1996,
+            "mileage": 40000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 209000,
+            "year": 2005,
+            "mileage": 175000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Priora I",
+            "price": 235000,
+            "year": 2008,
+            "mileage": 210000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2114",
+            "price": 240000,
+            "year": 2007,
+            "mileage": 170000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) 2115",
+            "price": 275000,
+            "year": 2008,
+            "mileage": 108000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina I",
+            "price": 280000,
+            "year": 2010,
+            "mileage": 165000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina I",
+            "price": 295000,
+            "year": 2010,
+            "mileage": 185000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I",
+            "price": 325000,
+            "year": 2012,
+            "mileage": 170000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Priora I",
+            "price": 340000,
+            "year": 2011,
+            "mileage": 130000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Kalina I",
+            "price": 355000,
+            "year": 2011,
+            "mileage": 276000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 429999,
+            "year": 2019,
+            "mileage": 92184,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 550000,
+            "year": 2019,
+            "mileage": 95000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I",
+            "price": 629000,
+            "year": 2013,
+            "mileage": 120405,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 630000,
+            "year": 2016,
+            "mileage": 150700,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 630000,
+            "year": 2016,
+            "mileage": 150700,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Sport I",
+            "price": 633500,
+            "year": 2018,
+            "mileage": 128220,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 664800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I",
+            "price": 699000,
+            "year": 2017,
+            "mileage": 96000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 744800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 744800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 753600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 756800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 772000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I",
+            "price": 790000,
+            "year": 2017,
+            "mileage": 205975,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 795000,
+            "year": 2022,
+            "mileage": 19100,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 795000,
+            "year": 2022,
+            "mileage": 19100,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 798000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 798000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend",
+            "price": 815200,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 818999,
+            "year": 2020,
+            "mileage": 51281,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 820000,
+            "year": 2017,
+            "mileage": 108380,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 821600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 821600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 821900,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 830400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 832000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 833600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 845600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 845600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 845600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 850000,
+            "year": 2023,
+            "mileage": 3650,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 856000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 856000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 856000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 857600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 866400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 868000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I",
+            "price": 869000,
+            "year": 2019,
+            "mileage": 97256,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I",
+            "price": 869000,
+            "year": 2019,
+            "mileage": 97256,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 869600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 869600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 870000,
+            "year": 2021,
+            "mileage": 36563,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 870000,
+            "year": 2021,
+            "mileage": 36563,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 878400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 878400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 880000,
+            "year": 2019,
+            "mileage": 84710,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 881600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 881600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 884700,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 884700,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend",
+            "price": 890000,
+            "year": 2022,
+            "mileage": 34000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend",
+            "price": 890000,
+            "year": 2022,
+            "mileage": 34000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 890400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I",
+            "price": 899000,
+            "year": 2018,
+            "mileage": 132000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend Euro-2",
+            "price": 905000,
+            "year": 2022,
+            "mileage": 46564,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I",
+            "price": 910000,
+            "year": 2020,
+            "mileage": 57517,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I",
+            "price": 910000,
+            "year": 2020,
+            "mileage": 57517,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 912000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 917000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 932000,
+            "year": 2023,
+            "mileage": 12325,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 933600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 935000,
+            "year": 2018,
+            "mileage": 77547,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 935200,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 936000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 938000,
+            "year": 2021,
+            "mileage": 31239,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 938700,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 938700,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 938700,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 940000,
+            "year": 2019,
+            "mileage": 97344,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 947200,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 948000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 948000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 948000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Cross I Рестайлинг",
+            "price": 956720,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 959200,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 990000,
+            "year": 2017,
+            "mileage": 73788,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 1000000,
+            "year": 2023,
+            "mileage": 16500,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1025000,
+            "year": 2021,
+            "mileage": 79000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I",
+            "price": 1034000,
+            "year": 2018,
+            "mileage": 130000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I",
+            "price": 1034000,
+            "year": 2018,
+            "mileage": 130000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 1040000,
+            "year": 2019,
+            "mileage": 88544,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Drive Active/Sportline Sportline I Рестайлинг",
+            "price": 1040800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend",
+            "price": 1050000,
+            "year": 2023,
+            "mileage": 12000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 1050000,
+            "year": 2019,
+            "mileage": 77795,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1050320,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1050320,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 1050400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "автомат"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1051200,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Drive Active/Sportline Drive Active I Рестайлинг",
+            "price": 1052800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 1060000,
+            "year": 2024,
+            "mileage": 20000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta I Рестайлинг",
+            "price": 1069000,
+            "year": 2024,
+            "mileage": 5626,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 1070000,
+            "year": 2019,
+            "mileage": 121938,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 1070000,
+            "year": 2019,
+            "mileage": 121938,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1100000,
+            "year": 2021,
+            "mileage": 115087,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 1100000,
+            "year": 2020,
+            "mileage": 124856,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1110000,
+            "year": 2021,
+            "mileage": 69000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1118400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I",
+            "price": 1120000,
+            "year": 2019,
+            "mileage": 101369,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 1130000,
+            "year": 2018,
+            "mileage": 110900,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 1145000,
+            "year": 2020,
+            "mileage": 108467,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 1145000,
+            "year": 2020,
+            "mileage": 108467,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 1159000,
+            "year": 2019,
+            "mileage": 85493,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY I",
+            "price": 1160000,
+            "year": 2020,
+            "mileage": 25761,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1167920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Sport I Рестайлинг",
+            "price": 1170400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Drive Active/Sportline Sportline I Рестайлинг",
+            "price": 1176300,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Drive Active/Sportline Sportline I Рестайлинг",
+            "price": 1189800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Drive Active/Sportline Sportline I Рестайлинг",
+            "price": 1189800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 1190000,
+            "year": 2020,
+            "mileage": 119390,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Sport I Рестайлинг",
+            "price": 1190400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Sport I Рестайлинг",
+            "price": 1190400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Sport I Рестайлинг",
+            "price": 1202400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Sport I Рестайлинг",
+            "price": 1202400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Granta Sport I Рестайлинг",
+            "price": 1202400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1205600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1212000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1220000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1238900,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I",
+            "price": 1240000,
+            "year": 2021,
+            "mileage": 97566,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1280000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1280000,
+            "year": 2024,
+            "mileage": 5200,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1286000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1286000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva Legend Bronto",
+            "price": 1294000,
+            "year": 2023,
+            "mileage": 9025,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1295000,
+            "year": 2021,
+            "mileage": 49722,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1300800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1312800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1312800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1315000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1315000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1315120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1315120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1319920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1334000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1343600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I Рестайлинг",
+            "price": 1349000,
+            "year": 2021,
+            "mileage": 75000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sport I",
+            "price": 1350000,
+            "year": 2021,
+            "mileage": 64000,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1355000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 1360000,
+            "year": 2020,
+            "mileage": 77207,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1367920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1367920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1367920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1368800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1376000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1376000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1388000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1388000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1388000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1388000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1388000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Cross I",
+            "price": 1395000,
+            "year": 2021,
+            "mileage": 93018,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1400000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1400000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1400000,
+            "year": 2024,
+            "mileage": 17617,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1400000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1418000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1418000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1418000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1423117,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1431920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1433600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1439120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1439120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1439120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1440000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1442400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Cross I Рестайлинг (NG)",
+            "price": 1445520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Cross I Рестайлинг (NG)",
+            "price": 1445520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Cross I Рестайлинг (NG)",
+            "price": 1449520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1451120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1451120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 1455000,
+            "year": 2019,
+            "mileage": 63305,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I",
+            "price": 1460000,
+            "year": 2021,
+            "mileage": 71258,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1470000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1470000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1478400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1491920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1491920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1491920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1491920,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1503200,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1508000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1508000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Niva I Рестайлинг (Travel)",
+            "price": 1520000,
+            "year": 2024,
+            "mileage": 7677,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1520000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I Рестайлинг",
+            "price": 1535000,
+            "year": 2021,
+            "mileage": 35418,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus Cross I Рестайлинг",
+            "price": 1535000,
+            "year": 2021,
+            "mileage": 35418,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1536720,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1537600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1545520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1545520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1545520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1549600,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1566400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1568800,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1575200,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1578400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Cross I Рестайлинг (NG)",
+            "price": 1587120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1589520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 1590000,
+            "year": 2022,
+            "mileage": 23000,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) XRAY Cross I",
+            "price": 1590000,
+            "year": 2022,
+            "mileage": 23000,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1601520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1605520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1605520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1612000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1614400,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1626000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1660000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1660000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1660000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1675000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1683120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1683120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1683120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1683120,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1705000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1710000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1720000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1720000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1720000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1720000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1720000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sportline I Рестайлинг (NG)",
+            "price": 1735000,
+            "year": 2023,
+            "mileage": 14067,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sportline I Рестайлинг (NG)",
+            "price": 1735000,
+            "year": 2023,
+            "mileage": 14067,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Largus I Рестайлинг",
+            "price": 1750000,
+            "year": 2024,
+            "mileage": 247,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sportline I Рестайлинг (NG)",
+            "price": 1776000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sportline I Рестайлинг (NG)",
+            "price": 1776000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1783000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1783000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1783000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1809000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1809000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1840000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1840000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1840000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1875000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1875000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta I Рестайлинг (NG)",
+            "price": 1885000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1941000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1942000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1942000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Sportline I Рестайлинг (NG)",
+            "price": 1953520,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1954000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1954000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1958000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 1958000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sportline I Рестайлинг (NG)",
+            "price": 1973000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sportline I Рестайлинг (NG)",
+            "price": 1973000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1997000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW I Рестайлинг (NG)",
+            "price": 1997000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "вариатор"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta Sportline I Рестайлинг (NG)",
+            "price": 2000000,
+            "year": 2023,
+            "mileage": 6600,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Cross I Рестайлинг (NG)",
+            "price": 2018000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Sportline I Рестайлинг\n                                  (NG)",
+            "price": 2193000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Sportline I Рестайлинг (NG)",
+            "price": 2193000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        },
+        {
+            "title": "Lada (ВАЗ) Vesta SW Sportline I Рестайлинг (NG)",
+            "price": 2194000,
+            "year": 2024,
+            "mileage": 0,
+            "type": "механика"
+        }
+    ]
+}
