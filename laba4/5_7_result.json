@@ -1,0 +1,50 @@
+[
+    {
+        "genre_name": "Adventure",
+        "avg_year": 1896.0
+    },
+    {
+        "genre_name": "Children's Literature",
+        "avg_year": 1973.4
+    },
+    {
+        "genre_name": "Comedy",
+        "avg_year": 1904.0
+    },
+    {
+        "genre_name": "Drama",
+        "avg_year": 1772.25
+    },
+    {
+        "genre_name": "Fantasy",
+        "avg_year": 1967.3333333333333
+    },
+    {
+        "genre_name": "Historical Fiction",
+        "avg_year": 1891.4615384615386
+    },
+    {
+        "genre_name": "Mystery",
+        "avg_year": 1950.5
+    },
+    {
+        "genre_name": "Non-fiction",
+        "avg_year": 1938.8125
+    },
+    {
+        "genre_name": "Philosophical Fiction",
+        "avg_year": 1913.5454545454545
+    },
+    {
+        "genre_name": "Poetry",
+        "avg_year": 1908.6
+    },
+    {
+        "genre_name": "Romance",
+        "avg_year": 1813.0
+    },
+    {
+        "genre_name": "Science Fiction",
+        "avg_year": 1959.0
+    }
+]

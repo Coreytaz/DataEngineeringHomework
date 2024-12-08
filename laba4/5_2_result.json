@@ -1,0 +1,398 @@
+[
+    {
+        "genre_name": "Academic Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Adventure",
+        "book_count": 3
+    },
+    {
+        "genre_name": "Alternate History",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Autobiographical Novel",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Autobiography",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Biography",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Chick Lit",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Children's Fantasy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Children's Literature",
+        "book_count": 10
+    },
+    {
+        "genre_name": "Classic",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Classic Thriller",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Comedy",
+        "book_count": 2
+    },
+    {
+        "genre_name": "Coming-of-Age Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Contemporary Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Courtroom Drama",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Crime Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Crime Thriller",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Cyberpunk",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Dark Fantasy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Detective Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Drama",
+        "book_count": 4
+    },
+    {
+        "genre_name": "Dystopian Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Environmental Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Epistolary Novel",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Experimental Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Fable",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Fairy Tale",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Family Saga",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Fantasy",
+        "book_count": 6
+    },
+    {
+        "genre_name": "Fantasy Adventure",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Fantasy Comedy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Feminist Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Feminist Literature",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Graphic Novel",
+        "book_count": 0
+    },
+    {
+        "genre_name": "High Fantasy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Historical Drama",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Historical Fantasy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Historical Fiction",
+        "book_count": 13
+    },
+    {
+        "genre_name": "Historical Mystery",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Historical Romance",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Historical Romance Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Historical Thriller",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Horror",
+        "book_count": 0
+    },
+    {
+        "genre_name": "LitRPG",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Literary Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Literary Memoir",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Low Fantasy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Magic Realism",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Magical Fantasy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Magical Realism Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Medical Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Metafiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Military Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Modernism",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Music Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Mystery",
+        "book_count": 8
+    },
+    {
+        "genre_name": "Mythic Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Mythology",
+        "book_count": 0
+    },
+    {
+        "genre_name": "New Adult Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "New Journalism",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Noir Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Non-fiction",
+        "book_count": 16
+    },
+    {
+        "genre_name": "Philosophical Fiction",
+        "book_count": 11
+    },
+    {
+        "genre_name": "Philosophical Poetry",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Philosophical Thriller",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Poetic Drama",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Poetry",
+        "book_count": 5
+    },
+    {
+        "genre_name": "Poetry Anthology",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Political Drama",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Political Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Political Thriller",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Post-Apocalyptic Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Postmodernism",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Realism",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Religious Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Romance",
+        "book_count": 2
+    },
+    {
+        "genre_name": "Romantic Comedy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Romantic Drama",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Romantic Suspense",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Satire",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Science Fantasy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Science Fiction",
+        "book_count": 20
+    },
+    {
+        "genre_name": "Science Fiction Adventure",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Social Commentary",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Space Adventure",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Space Opera",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Spiritual Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Spy Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Spy Thriller",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Surrealism",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Thriller",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Time Travel Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Tragedy",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Travel Literature",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Urban Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "War Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Western",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Women's Fiction",
+        "book_count": 0
+    },
+    {
+        "genre_name": "Young Adult",
+        "book_count": 0
+    }
+]

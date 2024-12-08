@@ -1,0 +1,398 @@
+[
+    {
+        "author_name": "Agatha Christie",
+        "book_count": 1
+    },
+    {
+        "author_name": "Albert Camus",
+        "book_count": 1
+    },
+    {
+        "author_name": "Aldous Huxley",
+        "book_count": 1
+    },
+    {
+        "author_name": "Allen Ginsberg",
+        "book_count": 1
+    },
+    {
+        "author_name": "Amy Tan",
+        "book_count": 1
+    },
+    {
+        "author_name": "Angela Carter",
+        "book_count": 1
+    },
+    {
+        "author_name": "Anne Tyler",
+        "book_count": 1
+    },
+    {
+        "author_name": "Anton Chekhov",
+        "book_count": 1
+    },
+    {
+        "author_name": "Arthur C. Clarke",
+        "book_count": 1
+    },
+    {
+        "author_name": "Barbara Kingsolver",
+        "book_count": 1
+    },
+    {
+        "author_name": "Bob Dylan",
+        "book_count": 0
+    },
+    {
+        "author_name": "Boris Pasternak",
+        "book_count": 1
+    },
+    {
+        "author_name": "Bukowski Charles",
+        "book_count": 1
+    },
+    {
+        "author_name": "Charles Dickens",
+        "book_count": 1
+    },
+    {
+        "author_name": "Chinua Achebe",
+        "book_count": 1
+    },
+    {
+        "author_name": "Cormac McCarthy",
+        "book_count": 1
+    },
+    {
+        "author_name": "Daphne du Maurier",
+        "book_count": 1
+    },
+    {
+        "author_name": "David Foster Wallace",
+        "book_count": 1
+    },
+    {
+        "author_name": "Edgar Allan Poe",
+        "book_count": 1
+    },
+    {
+        "author_name": "Edith Wharton",
+        "book_count": 1
+    },
+    {
+        "author_name": "Emily Dickinson",
+        "book_count": 1
+    },
+    {
+        "author_name": "Ernest Hemingway",
+        "book_count": 1
+    },
+    {
+        "author_name": "F. Scott Fitzgerald",
+        "book_count": 1
+    },
+    {
+        "author_name": "Franz Kafka",
+        "book_count": 1
+    },
+    {
+        "author_name": "Fyodor Dostoevsky",
+        "book_count": 2
+    },
+    {
+        "author_name": "George Eliot",
+        "book_count": 1
+    },
+    {
+        "author_name": "George Orwell",
+        "book_count": 1
+    },
+    {
+        "author_name": "George R.R. Martin",
+        "book_count": 1
+    },
+    {
+        "author_name": "H.G. Wells",
+        "book_count": 1
+    },
+    {
+        "author_name": "Harold Pinter",
+        "book_count": 1
+    },
+    {
+        "author_name": "Harper Lee",
+        "book_count": 1
+    },
+    {
+        "author_name": "Henry James",
+        "book_count": 1
+    },
+    {
+        "author_name": "Henry Miller",
+        "book_count": 1
+    },
+    {
+        "author_name": "Herman Melville",
+        "book_count": 1
+    },
+    {
+        "author_name": "Isaac Asimov",
+        "book_count": 1
+    },
+    {
+        "author_name": "Isabel Allende",
+        "book_count": 1
+    },
+    {
+        "author_name": "Italo Calvino",
+        "book_count": 1
+    },
+    {
+        "author_name": "J.D. Salinger",
+        "book_count": 1
+    },
+    {
+        "author_name": "J.K. Rowling",
+        "book_count": 1
+    },
+    {
+        "author_name": "J.R.R. Tolkien",
+        "book_count": 1
+    },
+    {
+        "author_name": "Jack Kerouac",
+        "book_count": 1
+    },
+    {
+        "author_name": "Jack London",
+        "book_count": 1
+    },
+    {
+        "author_name": "James Joyce",
+        "book_count": 1
+    },
+    {
+        "author_name": "Jane Austen",
+        "book_count": 1
+    },
+    {
+        "author_name": "Jean-Paul Sartre",
+        "book_count": 1
+    },
+    {
+        "author_name": "John Grisham",
+        "book_count": 1
+    },
+    {
+        "author_name": "John Steinbeck",
+        "book_count": 1
+    },
+    {
+        "author_name": "John Updike",
+        "book_count": 1
+    },
+    {
+        "author_name": "Jonathan Franzen",
+        "book_count": 1
+    },
+    {
+        "author_name": "Joris-Karl Huysmans",
+        "book_count": 1
+    },
+    {
+        "author_name": "Joseph Conrad",
+        "book_count": 1
+    },
+    {
+        "author_name": "Joyce Carol Oates",
+        "book_count": 1
+    },
+    {
+        "author_name": "Joyce Maynard",
+        "book_count": 1
+    },
+    {
+        "author_name": "Katherine Mansfield",
+        "book_count": 1
+    },
+    {
+        "author_name": "Ken Kesey",
+        "book_count": 1
+    },
+    {
+        "author_name": "Kurt Vonnegut",
+        "book_count": 1
+    },
+    {
+        "author_name": "Leo Perutz",
+        "book_count": 1
+    },
+    {
+        "author_name": "Leo Tolstoy",
+        "book_count": 2
+    },
+    {
+        "author_name": "Leonard Cohen",
+        "book_count": 1
+    },
+    {
+        "author_name": "Margaret Atwood",
+        "book_count": 1
+    },
+    {
+        "author_name": "Mark Haddon",
+        "book_count": 1
+    },
+    {
+        "author_name": "Mark Twain",
+        "book_count": 1
+    },
+    {
+        "author_name": "Markus Zusak",
+        "book_count": 1
+    },
+    {
+        "author_name": "Michael Chabon",
+        "book_count": 1
+    },
+    {
+        "author_name": "N.K. Jemisin",
+        "book_count": 1
+    },
+    {
+        "author_name": "Nadine Gordimer",
+        "book_count": 1
+    },
+    {
+        "author_name": "Neil Gaiman",
+        "book_count": 1
+    },
+    {
+        "author_name": "Orson Welles",
+        "book_count": 1
+    },
+    {
+        "author_name": "Oscar Hijuelos",
+        "book_count": 1
+    },
+    {
+        "author_name": "Oscar Wilde",
+        "book_count": 1
+    },
+    {
+        "author_name": "Patricia Highsmith",
+        "book_count": 1
+    },
+    {
+        "author_name": "Paul Auster",
+        "book_count": 1
+    },
+    {
+        "author_name": "Paul Bowles",
+        "book_count": 0
+    },
+    {
+        "author_name": "Philip K. Dick",
+        "book_count": 1
+    },
+    {
+        "author_name": "Philip Roth",
+        "book_count": 1
+    },
+    {
+        "author_name": "Ralph Waldo Emerson",
+        "book_count": 1
+    },
+    {
+        "author_name": "Ray Bradbury",
+        "book_count": 1
+    },
+    {
+        "author_name": "Raymond Chandler",
+        "book_count": 1
+    },
+    {
+        "author_name": "Richard Wright",
+        "book_count": 1
+    },
+    {
+        "author_name": "Rick Riordan",
+        "book_count": 1
+    },
+    {
+        "author_name": "Robert Frost",
+        "book_count": 1
+    },
+    {
+        "author_name": "Robert Louis Stevenson",
+        "book_count": 1
+    },
+    {
+        "author_name": "Robert Penn Warren",
+        "book_count": 1
+    },
+    {
+        "author_name": "Salman Rushdie",
+        "book_count": 1
+    },
+    {
+        "author_name": "Simone de Beauvoir",
+        "book_count": 1
+    },
+    {
+        "author_name": "Stephen King",
+        "book_count": 1
+    },
+    {
+        "author_name": "Susan Sontag",
+        "book_count": 1
+    },
+    {
+        "author_name": "Tennessee Williams",
+        "book_count": 1
+    },
+    {
+        "author_name": "Thomas Hardy",
+        "book_count": 1
+    },
+    {
+        "author_name": "Toni Morrison",
+        "book_count": 1
+    },
+    {
+        "author_name": "Virginia Andrews",
+        "book_count": 1
+    },
+    {
+        "author_name": "Virginia Woolf",
+        "book_count": 1
+    },
+    {
+        "author_name": "Vladimir Nabokov",
+        "book_count": 1
+    },
+    {
+        "author_name": "Walter Mosley",
+        "book_count": 1
+    },
+    {
+        "author_name": "William Blake",
+        "book_count": 1
+    },
+    {
+        "author_name": "William Faulkner",
+        "book_count": 1
+    },
+    {
+        "author_name": "William Shakespeare",
+        "book_count": 1
+    },
+    {
+        "author_name": "William Somerset Maugham",
+        "book_count": 1
+    },
+    {
+        "author_name": "Zadie Smith",
+        "book_count": 1
+    }
+]
