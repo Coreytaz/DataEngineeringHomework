@@ -1,0 +1,101 @@
+book_id,book_title,author_id,genre_id,year_published
+1,War and Peace,1,1,1869
+2,Anna Karenina,1,1,1877
+3,Crime and Punishment,2,2,1866
+4,The Brothers Karamazov,2,2,1880
+5,The Cherry Orchard,3,3,1904
+6,Pride and Prejudice,4,5,1813
+7,The Adventures of Tom Sawyer,5,4,1876
+8,Great Expectations,6,1,1861
+9,1984,7,6,1949
+10,To the Lighthouse,8,13,1927
+11,The Trial,9,12,1914
+12,The Picture of Dorian Gray,10,2,1890
+13,The Old Man and the Sea,11,1,1952
+14,Macbeth,12,10,1606
+15,The Grapes of Wrath,13,1,1939
+16,The Great Gatsby,14,12,1925
+17,Moby-Dick,15,1,1851
+18,The Raven,16,13,1845
+19,Murder on the Orient Express,17,8,1934
+20,The Tell-Tale Heart,18,12,1843
+21,A Streetcar Named Desire,19,10,1947
+22,As I Lay Dying,20,10,1930
+23,Harry Potter and the Sorcerer's Stone,21,19,1997
+24,The Hobbit,22,7,1937
+25,Slaughterhouse-Five,23,6,1969
+26,To Kill a Mockingbird,24,19,1960
+27,The Road,25,6,2006
+28,Catcher in the Rye,26,12,1951
+29,Fahrenheit 451,27,6,1953
+30,Tess of the d'Urbervilles,28,1,1891
+31,The Turn of the Screw,29,12,1898
+32,White Fang,30,4,1906
+33,Brave New World,31,6,1932
+34,Lolita,32,12,1955
+35,The Stranger,33,2,1942
+36,The Handmaid's Tale,34,2,1985
+37,On the Road,35,12,1957
+38,The Secret Garden,36,19,1911
+39,The Bell Jar,37,13,1963
+40,American Gods,38,7,2001
+41,Game of Thrones,39,7,1996
+42,Do Androids Dream of Electric Sheep?,40,6,1968
+43,I Robot,41,6,1950
+44,Childhood's End,42,6,1953
+45,The War of the Worlds,43,6,1898
+46,The Big Sleep,44,8,1939
+47,The Firm,45,8,1991
+48,Rebecca,46,8,1938
+49,Infinite Jest,47,12,1996
+50,The Corrections,48,12,2001
+51,It,49,6,1986
+52,The Shining,50,6,1977
+53,The Kite Runner,51,19,2003
+54,Bridget Jones's Diary,52,19,1996
+55,The Catcher in the Rye,53,12,1951
+56,The Great Gatsby,54,12,1925
+57,The Brothers Karamazov,55,2,1880
+58,1984,56,6,1949
+59,The Grapes of Wrath,57,1,1939
+60,Pride and Prejudice,58,5,1813
+61,Murder on the Orient Express,59,8,1934
+62,Crime and Punishment,60,2,1866
+63,The Picture of Dorian Gray,61,2,1890
+64,The Cherry Orchard,62,3,1904
+65,Macbeth,63,10,1606
+66,War and Peace,64,1,1869
+67,Anna Karenina,65,1,1877
+68,The Old Man and the Sea,66,1,1952
+69,Great Expectations,67,1,1861
+70,The Hobbit,68,7,1937
+71,Brave New World,69,6,1932
+72,To Kill a Mockingbird,70,19,1960
+73,The Road,71,6,2006
+74,Harry Potter and the Sorcerer's Stone,72,19,1997
+75,The Trial,73,12,1914
+76,The Tell-Tale Heart,74,12,1843
+77,The Raven,75,13,1845
+78,The Secret Garden,76,19,1911
+79,Moby-Dick,77,1,1851
+80,The Handmaid's Tale,78,2,1985
+81,The Big Sleep,79,8,1939
+82,The Shining,80,6,1977
+83,The Kite Runner,81,19,2003
+84,Infinite Jest,82,12,1996
+85,The Corrections,83,12,2001
+86,Bridget Jones's Diary,84,19,1996
+87,The Catcher in the Rye,85,12,1951
+88,Game of Thrones,86,7,1996
+89,Do Androids Dream of Electric Sheep?,87,6,1968
+90,The Firm,88,8,1991
+91,Rebecca,89,8,1938
+92,Childhood's End,90,6,1953
+93,White Fang,91,4,1906
+94,The Road,92,6,2006
+95,The Handmaid's Tale,93,2,1985
+96,The Bell Jar,94,13,1963
+97,I Robot,95,6,1950
+98,The War of the Worlds,96,6,1898
+99,The Brothers Karamazov,97,2,1880
+100,The Hobbit,98,7,1937

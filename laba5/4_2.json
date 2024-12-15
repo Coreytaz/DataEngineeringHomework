@@ -1,0 +1,121 @@
+[
+ {
+  "book_id":13,
+  "book_title":"The Old Man and the Sea",
+  "author_id":11,
+  "genre_id":1,
+  "year_published":1952
+ },
+ {
+  "book_id":68,
+  "book_title":"The Old Man and the Sea",
+  "author_id":66,
+  "genre_id":1,
+  "year_published":1952
+ },
+ {
+  "book_id":13,
+  "book_title":"The Old Man and the Sea",
+  "author_id":11,
+  "genre_id":1,
+  "year_published":1952
+ },
+ {
+  "book_id":68,
+  "book_title":"The Old Man and the Sea",
+  "author_id":66,
+  "genre_id":1,
+  "year_published":1952
+ },
+ {
+  "book_id":1,
+  "book_title":"War and Peace",
+  "author_id":1,
+  "genre_id":1,
+  "year_published":1869
+ },
+ {
+  "book_id":2,
+  "book_title":"Anna Karenina",
+  "author_id":1,
+  "genre_id":1,
+  "year_published":1877
+ },
+ {
+  "book_id":8,
+  "book_title":"Great Expectations",
+  "author_id":6,
+  "genre_id":1,
+  "year_published":1861
+ },
+ {
+  "book_id":13,
+  "book_title":"The Old Man and the Sea",
+  "author_id":11,
+  "genre_id":1,
+  "year_published":1952
+ },
+ {
+  "book_id":15,
+  "book_title":"The Grapes of Wrath",
+  "author_id":13,
+  "genre_id":1,
+  "year_published":1939
+ },
+ {
+  "book_id":17,
+  "book_title":"Moby-Dick",
+  "author_id":15,
+  "genre_id":1,
+  "year_published":1851
+ },
+ {
+  "book_id":30,
+  "book_title":"Tess of the d'Urbervilles",
+  "author_id":28,
+  "genre_id":1,
+  "year_published":1891
+ },
+ {
+  "book_id":59,
+  "book_title":"The Grapes of Wrath",
+  "author_id":57,
+  "genre_id":1,
+  "year_published":1939
+ },
+ {
+  "book_id":66,
+  "book_title":"War and Peace",
+  "author_id":64,
+  "genre_id":1,
+  "year_published":1869
+ },
+ {
+  "book_id":67,
+  "book_title":"Anna Karenina",
+  "author_id":65,
+  "genre_id":1,
+  "year_published":1877
+ },
+ {
+  "book_id":68,
+  "book_title":"The Old Man and the Sea",
+  "author_id":66,
+  "genre_id":1,
+  "year_published":1952
+ },
+ {
+  "book_id":69,
+  "book_title":"Great Expectations",
+  "author_id":67,
+  "genre_id":1,
+  "year_published":1861
+ },
+ {
+  "book_id":79,
+  "book_title":"Moby-Dick",
+  "author_id":77,
+  "genre_id":1,
+  "year_published":1851
+ }
+]

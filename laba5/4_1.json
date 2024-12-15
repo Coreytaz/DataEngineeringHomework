@@ -1,0 +1,50 @@
+[
+ {
+  "author_id":35,
+  "author_name":"Zadie Smith",
+  "birth_date":"1975-10-25",
+  "age":50
+ },
+ {
+  "author_id":75,
+  "author_name":"Markus Zusak",
+  "birth_date":"1975-06-23",
+  "age":50
+ },
+ {
+  "author_id":35,
+  "author_name":"Zadie Smith",
+  "birth_date":"1975-10-25",
+  "age":47
+ },
+ {
+  "author_id":75,
+  "author_name":"Markus Zusak",
+  "birth_date":"1975-06-23",
+  "age":47
+ },
+ {
+  "author_id":96,
+  "author_name":"N.K. Jemisin",
+  "birth_date":"1972-09-19",
+  "age":50
+ },
+ {
+  "author_id":35,
+  "author_name":"Zadie Smith",
+  "birth_date":"1975-10-25",
+  "age":46
+ },
+ {
+  "author_id":75,
+  "author_name":"Markus Zusak",
+  "birth_date":"1975-06-23",
+  "age":46
+ },
+ {
+  "author_id":96,
+  "author_name":"N.K. Jemisin",
+  "birth_date":"1972-09-19",
+  "age":49
+ }
+]

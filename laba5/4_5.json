@@ -1,0 +1,212 @@
+[
+ {
+  "book_id":23,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":21,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":41,
+  "book_title":"Game of Thrones",
+  "author_id":39,
+  "genre_id":7,
+  "year_published":1996
+ },
+ {
+  "book_id":47,
+  "book_title":"The Firm",
+  "author_id":45,
+  "genre_id":8,
+  "year_published":1991
+ },
+ {
+  "book_id":49,
+  "book_title":"Infinite Jest",
+  "author_id":47,
+  "genre_id":12,
+  "year_published":1996
+ },
+ {
+  "book_id":54,
+  "book_title":"Bridget Jones's Diary",
+  "author_id":52,
+  "genre_id":19,
+  "year_published":1996
+ },
+ {
+  "book_id":74,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":72,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":84,
+  "book_title":"Infinite Jest",
+  "author_id":82,
+  "genre_id":12,
+  "year_published":1996
+ },
+ {
+  "book_id":86,
+  "book_title":"Bridget Jones's Diary",
+  "author_id":84,
+  "genre_id":19,
+  "year_published":1996
+ },
+ {
+  "book_id":88,
+  "book_title":"Game of Thrones",
+  "author_id":86,
+  "genre_id":7,
+  "year_published":1996
+ },
+ {
+  "book_id":90,
+  "book_title":"The Firm",
+  "author_id":88,
+  "genre_id":8,
+  "year_published":1991
+ },
+ {
+  "book_id":23,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":21,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":41,
+  "book_title":"Game of Thrones",
+  "author_id":39,
+  "genre_id":7,
+  "year_published":1996
+ },
+ {
+  "book_id":47,
+  "book_title":"The Firm",
+  "author_id":45,
+  "genre_id":8,
+  "year_published":1991
+ },
+ {
+  "book_id":49,
+  "book_title":"Infinite Jest",
+  "author_id":47,
+  "genre_id":12,
+  "year_published":1996
+ },
+ {
+  "book_id":54,
+  "book_title":"Bridget Jones's Diary",
+  "author_id":52,
+  "genre_id":19,
+  "year_published":1996
+ },
+ {
+  "book_id":74,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":72,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":84,
+  "book_title":"Infinite Jest",
+  "author_id":82,
+  "genre_id":12,
+  "year_published":1996
+ },
+ {
+  "book_id":86,
+  "book_title":"Bridget Jones's Diary",
+  "author_id":84,
+  "genre_id":19,
+  "year_published":1996
+ },
+ {
+  "book_id":88,
+  "book_title":"Game of Thrones",
+  "author_id":86,
+  "genre_id":7,
+  "year_published":1996
+ },
+ {
+  "book_id":90,
+  "book_title":"The Firm",
+  "author_id":88,
+  "genre_id":8,
+  "year_published":1991
+ },
+ {
+  "book_id":23,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":21,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":41,
+  "book_title":"Game of Thrones",
+  "author_id":39,
+  "genre_id":7,
+  "year_published":1996
+ },
+ {
+  "book_id":47,
+  "book_title":"The Firm",
+  "author_id":45,
+  "genre_id":8,
+  "year_published":1991
+ },
+ {
+  "book_id":49,
+  "book_title":"Infinite Jest",
+  "author_id":47,
+  "genre_id":12,
+  "year_published":1996
+ },
+ {
+  "book_id":54,
+  "book_title":"Bridget Jones's Diary",
+  "author_id":52,
+  "genre_id":19,
+  "year_published":1996
+ },
+ {
+  "book_id":74,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":72,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":84,
+  "book_title":"Infinite Jest",
+  "author_id":82,
+  "genre_id":12,
+  "year_published":1996
+ },
+ {
+  "book_id":86,
+  "book_title":"Bridget Jones's Diary",
+  "author_id":84,
+  "genre_id":19,
+  "year_published":1996
+ },
+ {
+  "book_id":88,
+  "book_title":"Game of Thrones",
+  "author_id":86,
+  "genre_id":7,
+  "year_published":1996
+ },
+ {
+  "book_id":90,
+  "book_title":"The Firm",
+  "author_id":88,
+  "genre_id":8,
+  "year_published":1991
+ }
+]

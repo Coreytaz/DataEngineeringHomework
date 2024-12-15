@@ -1,0 +1,44 @@
+[
+ {
+  "book_id":23,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":21,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":74,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":72,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":23,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":21,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":74,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":72,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":23,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":21,
+  "genre_id":19,
+  "year_published":1997
+ },
+ {
+  "book_id":74,
+  "book_title":"Harry Potter and the Sorcerer's Stone",
+  "author_id":72,
+  "genre_id":19,
+  "year_published":1997
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "book_id":34,
+  "book_title":"Lolita",
+  "author_id":32,
+  "genre_id":12,
+  "year_published":1955
+ },
+ {
+  "book_id":34,
+  "book_title":"Lolita",
+  "author_id":32,
+  "genre_id":12,
+  "year_published":1955
+ },
+ {
+  "book_id":34,
+  "book_title":"Lolita",
+  "author_id":32,
+  "genre_id":12,
+  "year_published":1955
+ }
+]
