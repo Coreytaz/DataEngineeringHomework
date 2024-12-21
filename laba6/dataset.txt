@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/mikhailpustovalov/autoru-all-used-car-offers-as-of-17032021?select=dataset_with_electro.csv
